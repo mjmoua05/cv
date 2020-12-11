@@ -1,0 +1,33 @@
+body {
+  background-color: #dff3e3;
+}
+
+hr {
+  border-style: dotted none none none;
+  border-width: 10px;
+  color: #86aba1;
+  width: 10%;
+}
+
+h1{
+  color: #4e8d7c;
+  font-family: Garamond;
+}
+
+h3{
+  color: #4e8d7c;
+  font-family: 'Lucida Console';
+}
+p{
+  color: #456268;
+  font-family: Arial;
+  font-weight: bold;
+}
+tr{
+  color: #456268;
+  font-family: Arial;
+}
+ul{
+  color: #456268;
+  font-family: Arial;
+}
